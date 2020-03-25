@@ -1,6 +1,7 @@
 # Programmer's Notepad 2 Dialog Helper Extension
 
 Extension for Programmer's Notepad 2 which fixes Save file dialog usability by setting focus on OK button.
+![alt text](https://github.com/T800G/PN2DialogHelper/blob/master/sshot.png "screenshot")
 
 ## Minimum system requirements
 Windows XP
